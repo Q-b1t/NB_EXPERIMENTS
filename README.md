@@ -1,2 +1,2 @@
 # NB_EXPERIMENTS
-NB_EXPERIMENTS
+Je veux commencer a publier toutes mes trucs concernant des algorithmes de machine learning et de la computation quantique. Je commencerai avec ces experiments du classificateurs naive bayes que je suis en train de faire. 
